@@ -1,9 +1,21 @@
-# AI-TikTok-Transcript-Tool
-This repository contains a TikTok Transcript Downloader application utilizing OpenAI's technology to transcribe audio from TikTok videos into text. The application is designed with a user-friendly GUI interface, supporting the downloading of audio from TikTok followed by an automated transcription process.
+# OpenAI TikTok Transcript
 
-# Setup
-1.
-run install-requirements.bat
+A tool for transcribing TikTok audio to text using OpenAI.
 
-2.
-set api key, and u good.
+## Features
+- Downloads audio from TikTok videos.
+- Transcribes audio to text.
+- Simple graphical user interface.
+
+## Tech
+- Python
+- `yt_dlp` for audio downloading
+- `openai` library for transcription
+- `tkinter` and `customtkinter` for GUI
+
+## Install
+1. Run `install-requirements.bat` to install necessary libraries.
+2. Set your OpenAI API key in the application.
+
+## Usage
+Launch the app, input a TikTok link, and start transcribing.
