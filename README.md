@@ -4,5 +4,6 @@ This repository contains a TikTok Transcript Downloader application utilizing Op
 # Setup
 1.
 run install-requirements.bat
+
 2.
 set api key, and u good.
