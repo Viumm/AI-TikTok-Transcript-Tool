@@ -2,6 +2,8 @@
 
 A tool for transcribing TikTok audio to text using OpenAI.
 
+![tiktoktranscriptdownloader](https://github.com/Viumm/AI-TikTok-Transcript-Tool/assets/156192924/0ce14b1b-569d-4bc8-b5cc-e2f894fe2593)
+
 ## Features
 - Downloads audio from TikTok videos.
 - Transcribes audio to text.
