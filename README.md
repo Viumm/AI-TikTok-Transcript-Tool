@@ -1,6 +1,6 @@
 # OpenAI TikTok Transcript
 
-A tool for transcribing TikTok audio to text using OpenAI.
+A tool for transcribing TikTok audio to text using OpenAI's Whisper model.
 
 ![tiktoktranscriptdownloader](https://github.com/Viumm/AI-TikTok-Transcript-Tool/assets/156192924/0ce14b1b-569d-4bc8-b5cc-e2f894fe2593)
 
@@ -12,7 +12,7 @@ A tool for transcribing TikTok audio to text using OpenAI.
 ## Tech
 - Python
 - `yt_dlp` for audio downloading
-- `openai` library for transcription
+- `openai` library with `whisper-1` model for transcription
 - `tkinter` and `customtkinter` for GUI
 
 ## Install
